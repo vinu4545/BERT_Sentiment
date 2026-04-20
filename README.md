@@ -99,14 +99,16 @@ We use the **Sentiment140** dataset — 1.6 million tweets labeled as:
 
 sentiment-bert/
 │
-├── images/                   # Graphs and visualizations
+├── images/
 │   ├── confusion_matrix.png
 │   ├── loss_graph.png
 │   └── accuracy_graph.png
-├── sentiment140.csv          # Dataset (download separately)
-├── train.ipynb               # Main training notebook (Google Colab)
-├── predict.py                # Local inference script
-├── sentiment_model_bert.pth  # Saved model weights (after training)
+│
+├── sentiment140.csv
+├── train.ipynb
+├── predict.py
+├── sentiment_model_bert.pth
+├── .gitignore
 └── README.md
 
 ---
