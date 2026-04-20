@@ -237,19 +237,19 @@ This project is licensed under the MIT License.
 <p align="center">Made with ❤️ for NLP Research</p>
 
 
-## 📈 Visualizations
+## 📈 Result and Visualizations
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/confusion_matrix.png)
 
 ### Evolution Matrix
-![Evolution Matrix](images/evolution_matrix.png)
+![Evolution Matrix](Images/evolution_matrix.png)
 
 ### Prediction
-![Prediction](images/prediction.png)
+![Prediction](Images/prediction.png)
 
 ### Sample Output
-![Sample Output](images/sample_output.png)
+![Sample Output](Images/sample_output.png)
 
 ### Training Loss Curve
-![Training Loss Curve](images/training_loss_curve.png)
+![Training Loss Curve](Images/training_loss_curve.png)
